@@ -1,4 +1,13 @@
-Planificación
+.md
+
+.pdf
+
+link al repositorio
+
+Presentación pptx en video
+
+#*Comparación y contraste*
+##Planificación
 Tema: Tipos de switches de teclado mecánico que hay.
 Audiencia: Lo que saben o quizás ya sepan sobre su tema => + -
 Antecedentes.
