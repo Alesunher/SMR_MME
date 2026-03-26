@@ -23,7 +23,7 @@ La mayor parte de esta informacion la concia ya pero he podido investigar y cono
 
 ## ENLACES ##
 La mayor parte de la informacion la he conseguido por caht gpt pero los enlaces que ha usado chat gpt en buscar la informacion han sido elegidos previamente antes de preguntarle a chat gpt diciendole que busque solo en esots enlaces.
- [Diferencias entre ARM y x86 - Red Hat](https://www.redhat.com/es/topics/linux/ARM-vs-x86?utm_source=chatgpt.com)  
+- [Diferencias entre ARM y x86 - Red Hat](https://www.redhat.com/es/topics/linux/ARM-vs-x86?utm_source=chatgpt.com)  
 - [Procesadores x86 vs ARM: diferencias y ventajas - Profesional Review](https://www.profesionalreview.com/2017/11/26/procesadores-x86-vs-arm-diferencias-ventajas-principales/?utm_source=chatgpt.com)  
 - [ARM vs x86: diferencias en consumo y uso - Indurock](https://www.indurock.com/es/arm-vs-x86-which-cpu-architecture-is-better-for-industrial-pcs-and-edge-computing/?utm_source=chatgpt.com)  
 - [Conoces las diferencias entre los procesadores ARM y x86 - ITES](https://ite.unison.mx/conoces-las-diferencias-entre-los-procesadores-arm-y-x86/?utm_source=chatgpt.com)  
