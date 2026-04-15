@@ -109,10 +109,4 @@
 **Nota importante:**
 Se recomienda siempre verificar el hardware en casos de discrepancias mediante herramientas como CPU-Z y validación de modelo en Intel ARK o AMD Product Database.
 
----
 
-## Formato de entrega
-
-* Documento preparado para conversión a PDF o subida a GitHub (README.md)
-* Incluye estructura reproducible
-* Incluye análisis técnico completo
